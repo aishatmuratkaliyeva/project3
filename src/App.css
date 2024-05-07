@@ -1,0 +1,44 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.app {
+  padding: 150px;
+  text-align: center;
+  align-content: center; 
+  align-items: center;
+  justify-content: center;
+}
+
+.language-selector {
+  margin-left: 1000px;
+  margin-bottom: 80px;
+}
+
+.content {
+  flex-grow: 1;
+}
+
+.light {
+  background-color: white;
+  color: #000;
+}
+
+.dark {
+  background-color: black;
+  color: #fff;
+}
+
+.time-tracking {
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+.tooltips-example {
+  margin-top: 20px;
+  display: flex;
+  text-align: center;
+  align-content: center; 
+  align-items: center;
+  justify-content: center;
+}
